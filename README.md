@@ -2,7 +2,7 @@
 
 ![SportsScores Preview](sportsscorespreview.png)
 
-This app accompanies these [Lecture Notes](https://github.com/upperlinecode/CS-and-the-City-Curriculum/blob/with-unit-2/react/5-react.md).
+This app accompanies these [Lecture Notes](https://github.com/upperlinecode/CS-and-the-City-Curriculum/blob/master/react/styling.md).
 
 ## Getting Started
 
